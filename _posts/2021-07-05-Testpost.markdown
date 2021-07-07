@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Testpost"
+date:   2021-07-05 07:04:05 +0200
+categories: Testkategorie
+---
+
+## Kapitel Kochbeginn
+
+### Stammwürze bei Kochbeginn
+In diesem Feld wird die Stammwürze bei Kochbeginn anhand der Daten von Bierspindel oder Refraktometer in °Plato eingetragen.
+°Brix muss vorher umgerechnet werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster und hilft bei der Berechnung.
+Sind Stammwürze bei Kochbeginn und Zielstammwürze weitgehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+
+### Zielstammwürze
+Hier wird die Zielstammwürze bei Kochbeginn angegeben. Dieser Wert entspricht der Zielstammwürze bei Kochende abzüglich Verdampfungsseffekten während des Kochvorgangs.
+Sind Würzemenge und Zielwürzemenge mit der Zielstammwürze weitgehend identisch, ist dies ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
+ 
+### Würzemenge bei Kochbeginn
+In diesem Feld wird die Würzemenge bei Kochbeginn gemessen bei 20°C eingetragen.
+Bei abweichender Temperatur muss das Volumen korrigiert werden. Ein Klick auf das Widget rechts öffnet ein schwebendes Fenster und hilft bei der Berechnung.
+
+### Zielwürzemenge zu Kochbeginn
+Hier hat der Kleine Brauhelfer die Zielwürzemenge zu Kochbeginn bei 20°C berechnet.
+Soll- und Istwerte der Würze- und Stammwürzemenge werden auf dem Spickzettel notiert, respektive vermerkt.
+Sind Zielwürzemenge und Würzemenge bei Kochbeginn weitegehend identisch, ist dieser Zwischenwert ein Indikator für eine gut kalibrierte Brauanlage und gute Maischeführung.
